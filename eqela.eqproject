@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Gui
+#
+
+projectname: Gui
+vendorid: com.macoysamples
+mainmodule: com.macoysamples.gui
